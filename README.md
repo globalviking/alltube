@@ -1,6 +1,8 @@
 alltube
 =======
 
+Fork of alltube, translated to Brazilian Portuguese.
+
 HTML GUI for youtube-dl (http://alltubedownload.net/)
 
 ![Screenshot](img/screenshot.png "Alltube GUI screenshot")
